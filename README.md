@@ -1,2 +1,24 @@
-# WEBPRO
-Welcome to WebPro! This website is created to practice and showcase my web development skills. Content here may be real or fictional for demo purposes. I create simple and responsive websites. If you need a website, contact me on Fiverr. Username: Ayu Gupta
+# 🌐 WebPro
+
+Welcome to **WebPro** 👋
+
+This is a personal project created to practice and improve my web development skills using HTML, CSS and JavaScript.
+
+## 🚀 About This Project
+This website is built to showcase my work, creativity and learning journey as a beginner web developer.
+
+⚠️ Note:
+The content on this website is for demonstration purposes only. It may be real, partially real or fictional and should not be considered official information.
+
+## 💻 Features
+- Simple and clean design
+- Responsive layout (mobile + desktop)
+- Beginner-friendly structure
+
+## 📞 Contact Me
+If you need a website for your business, blog or personal use, I can create one for you.
+
+👉 Fiverr: https://www.fiverr.com/yourusername
+
+## 🙌 Thank You
+Thank you for visiting this project and supporting my learning journey!
