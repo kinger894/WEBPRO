@@ -19,7 +19,7 @@ The content on this website is for demonstration purposes only. It may be real, 
 If you need a website for your business, blog or personal use, I can create one for you.
 
 my mobile no. 9918404011
-my gamil . ayugupta973@gmail.com
+my gamil . mwebsite878@gmail.com
 
 ## 🙌 Thank You
 Thank you for visiting this project and supporting my learning journey!
